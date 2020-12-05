@@ -111,15 +111,6 @@ nav li a:hover {
     padding: 1.5em;
 }
 
-#sidebar {
-    float: left;
-    width: 1030px;
-    height: 270px;
-    border:solid green;
-    border-radius: 1em;
-    padding: 0.8em;
-}
-
 p {
     font-size: 19px;
     font-weight: bold;
