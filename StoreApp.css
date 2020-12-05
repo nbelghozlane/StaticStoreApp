@@ -28,8 +28,8 @@ body {
 }
 
 header {
-    background-color: white;
-    border: solid darkred 10px;
+    background-color: rgba(247, 247, 247, 0.829);
+    border: solid darkred 8px;
     text-align: center;
     padding: 0.5em 0 0.5em;
     margin: 0 0 2.0em;
@@ -98,7 +98,7 @@ nav li a:hover {
 }
 
 .panel{
-    background-color:white;
+    background-color:rgba(255, 255, 255, 0.959);
     border: solid rgb(194, 83, 83) 3px;
     border-radius: 1em;
     position: relative;
